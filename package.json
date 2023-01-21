@@ -2,7 +2,7 @@
   "name": "dqflex",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/dev1week/movie-recommend-client",
+  "homepage": "https://dev1week.github.io/movie-recommend-client/",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -15,7 +15,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "~4.0.3",
-    "react-stars": "^2.2.5"
+    "react-stars": "^2.2.5",
+    "yarn": "^1.22.19"
   },
   "scripts": {
     "start": "react-scripts start",
